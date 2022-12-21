@@ -27,6 +27,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Partners
 
-> Rahul Das ©
->> Connor Byers ©
->>> Shaam Bala ©
+> Rahul Das © (Georgia Tech - Atlanta, Ga.) 
+>> Connor Byers © (University of Southern California - Los Angeles, Ca.)
+>>> Shaam Bala © (Georgia Tech - Atlanta, Ga.)
