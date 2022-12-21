@@ -1,6 +1,6 @@
 # Chefs Assistant
 
-A Swift/Flutter project.
+Artificial Intelligence powered cooking assistant (Collabaration between Georgia Tech & University of Southern California). A Swift/Flutter project.
 
 ## Getting Started
 
