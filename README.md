@@ -1,4 +1,4 @@
-# Chef's Assistant
+# Chef's Assistant (iOS App)
 
 Artificial Intelligence powered cooking assistant (Collabaration between Georgia Tech & University of Southern California). A Swift/Flutter project.
 
