@@ -2,7 +2,7 @@
 
 Artificial Intelligence powered cooking assistant (Collabaration between Georgia Tech & University of Southern California). A Swift/Flutter project.
 <br>
-[Screen-Shot-2022-12-21-at-4-14-41-PM.png](https://postimg.cc/zLpz9KDG)
+[![Screen-Shot-2022-12-21-at-4-14-41-PM.png](https://i.postimg.cc/W3cdqwQg/Screen-Shot-2022-12-21-at-4-14-41-PM.png)](https://postimg.cc/zLpz9KDG)
 <br>
 ## Getting Started
 
