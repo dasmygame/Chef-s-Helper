@@ -1,7 +1,9 @@
 # Chef's Assistant (iOS App)
 
 Artificial Intelligence powered cooking assistant (Collabaration between Georgia Tech & University of Southern California). A Swift/Flutter project.
-
+<br>
+[Screen-Shot-2022-12-21-at-4-14-41-PM.png](https://postimg.cc/zLpz9KDG)
+<br>
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
